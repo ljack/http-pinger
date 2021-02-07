@@ -1,1 +1,9 @@
 .idea
+
+config.json
+
+console.out
+
+go.sum
+
+urls.txt
